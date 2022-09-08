@@ -93,5 +93,22 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"/>
 </p>
 
+<hr>
 
+### 📈 Github Stats
+<!-- status codes -->
+<p>
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dkartikhunt3r">
+</a>
+&nbsp; &nbsp;
+<img src="https://komarev.com/ghpvc/?username=kartikhunt3r" alt="kartikhunt3r"/>
+</p>
+  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kartikhunt3r&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikhunt3r&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
 
+<p align=center>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kartikhunt3r&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"></img>
+</p>
