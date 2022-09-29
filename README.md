@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/kartikhunt3r" target="_blank">
   <img align="center" alt="gokulap | Linkedin" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/kartikhuntr" target="_blank">
+<a href="https://twitter.com/kartikhunt3r" target="_blank">
   <img align="center" alt="gokulap | Twitter" width="31px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:kartikhunt3r@gmail.com">
